@@ -1,6 +1,6 @@
 {
   "name": "vanta-auditor-tui",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Beautiful terminal UI for exporting Vanta audit evidence with ZIP support and progress tracking",
   "keywords": [
     "vanta",
@@ -21,12 +21,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ethantroy/vanta-auditor-tui"
+    "url": "https://github.com/ethanolivertroy/vanta-auditor-tui"
   },
   "bugs": {
-    "url": "https://github.com/ethantroy/vanta-auditor-tui/issues"
+    "url": "https://github.com/ethanolivertroy/vanta-auditor-tui/issues"
   },
-  "homepage": "https://github.com/ethantroy/vanta-auditor-tui#readme",
+  "homepage": "https://github.com/ethanolivertroy/vanta-auditor-tui#readme",
   "type": "module",
   "bin": {
     "vanta-auditor-tui": "./dist/index.js",

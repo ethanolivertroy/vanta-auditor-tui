@@ -5,7 +5,7 @@
 
 A beautiful terminal UI for exporting Vanta audit evidence with ZIP support, folder organization, and real-time progress tracking.
 
-![Vanta Auditor TUI Demo](https://github.com/ethantroy/vanta-auditor-tui/raw/main/demo.gif)
+![Vanta Auditor TUI Demo](https://github.com/ethanolivertroy/vanta-auditor-tui/raw/main/demo.gif)
 
 ## ✨ Features
 
@@ -32,7 +32,7 @@ npm install -g vanta-auditor-tui
 ### From Source
 
 ```bash
-git clone https://github.com/ethantroy/vanta-auditor-tui.git
+git clone https://github.com/ethanolivertroy/vanta-auditor-tui.git
 cd vanta-auditor-tui
 npm install
 npm run build
@@ -193,7 +193,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Support
 
 For issues and questions:
-- [GitHub Issues](https://github.com/ethantroy/vanta-auditor-tui/issues)
+- [GitHub Issues](https://github.com/ethanolivertroy/vanta-auditor-tui/issues)
 - [NPM Package](https://www.npmjs.com/package/vanta-auditor-tui)
 
 ---
