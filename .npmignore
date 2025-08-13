@@ -1,0 +1,53 @@
+# Source files (only dist is needed)
+src/
+*.ts
+*.tsx
+!dist/**/*.d.ts
+
+# Configuration files
+tsconfig.json
+tsx.config.json
+.prettierrc
+.eslintrc*
+
+# Development and test
+node_modules/
+exports/
+*.test.*
+*.spec.*
+coverage/
+
+# Environment and secrets
+.env
+.env.*
+*.pem
+*.key
+*.cert
+
+# Version control
+.git/
+.gitignore
+.github/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.part
+.tmp-download/
+tmp/
+temp/
+
+# Documentation source
+docs/
+
+# Build artifacts not needed
+*.map

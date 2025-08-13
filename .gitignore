@@ -1,0 +1,29 @@
+node_modules
+dist
+.DS_Store
+exports
+*.log
+*.part
+
+# Environment and secrets
+.env
+.env.*
+.env.backup
+*.pem
+*.key
+*.cert
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+
+# Temporary files
+.tmp-download
+tmp/
+temp/
+

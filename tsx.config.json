@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "target": "ES2022",
+    "moduleResolution": "node",
+    "allowImportingTsExtensions": false,
+    "jsx": "react-jsx"
+  },
+  "esbuild": {
+    "format": "esm",
+    "platform": "node",
+    "target": "node20",
+    "supported": {
+      "top-level-await": true
+    }
+  }
+}
