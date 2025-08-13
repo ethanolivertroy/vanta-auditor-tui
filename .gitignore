@@ -27,3 +27,8 @@ Thumbs.db
 tmp/
 temp/
 
+# Claude
+.claude/
+CLAUDE.md
+.claude*
+
