@@ -5,7 +5,11 @@
 
 A beautiful terminal UI for exporting Vanta audit evidence with ZIP support, folder organization, and real-time progress tracking.
 
-![Vanta Auditor TUI Demo](https://github.com/ethanolivertroy/vanta-auditor-tui/raw/main/demo.gif)
+## 🎬 Demo
+
+![Authentication Flow](demo/demo1.gif)
+
+![Export and Download](demo/demo2.gif)
 
 ## ✨ Features
 
