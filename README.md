@@ -1,5 +1,8 @@
 # 🦙 Vanta Auditor TUI
 
+> [!WARNING]
+> **This repository is no longer actively maintained and is provided as a public archive.** The code remains available for reference purposes, but no further updates or support will be provided.
+
 [![npm version](https://badge.fury.io/js/vanta-auditor-tui.svg)](https://www.npmjs.com/package/vanta-auditor-tui)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
